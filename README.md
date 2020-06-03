@@ -6,6 +6,9 @@ This is a sample README file for our GitHub Example repo. We're learning Markdow
 * Markdown is pretty cool.
 * I am learning the syntaxes for Markdown
 
+## Link Test
+[Google](https://google.com)
+
 Trying an ordered list
 1. Item one
 2. Item two
